@@ -1,4 +1,4 @@
-digbot-domaincrawler
+DigDomainCrawler
 ====================
 
-Domain crawler bot
+DNS massive resolve hostname and TAS-IX check
